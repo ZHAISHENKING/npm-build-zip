@@ -21,7 +21,7 @@ npm run zip
 ### Arguments 
 `--source=dir/build/` **default is: build**
 
-`--destination=dir/out/` **defualt is: .**
+`--destination=dir/out/` **default is: .**
 
 `--includes=yargs,sanitize-filename` **default is: ''** include packages in zip
 
